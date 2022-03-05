@@ -1,0 +1,12 @@
+[submodule "matrix"]
+	path = matrix
+	url = git@github.com:heusalagroup/fi.hg.matrix
+[submodule "pipeline"]
+	path = pipeline
+	url = git@github.com:heusalagroup/fi.hg.pipeline
+[submodule "core"]
+	path = core
+	url = git@github.com:heusalagroup/fi.hg.core
+[submodule "ui"]
+	path = ui
+	url = git@github.com:heusalagroup/fi.hg.ui

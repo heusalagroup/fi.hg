@@ -1,0 +1,6 @@
+{
+  "fi.hg.matrix"   : "./matrix",
+  "fi.hg.pipeline" : "./pipeline",
+  "fi.hg.core"     : "./core",
+  "fi.hg.ui"       : "./ui"
+}
